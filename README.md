@@ -1,9 +1,7 @@
 # Saway
 
 This project contains materials from the system and business analysis disciplines in English.
-
-Русскоязычные материалы вы можете найти в проекте bp4you/saway4ru 
-----
+(русскоязычные материалы вы можете найти по ссылке https://github.com/bp4you/saway4ru)
 
 Все материалы именованы в соответствии с нижеследующей легендой:
 
